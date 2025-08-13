@@ -1,3 +1,4 @@
+
 Accessibility Analyzer
 
 A modern, responsive React application that helps developers and designers analyze the accessibility of their websites. This tool detects issues like missing alt attributes, low color contrast, and other common accessibility problems, helping improve web inclusivity and compliance with WCAG standards.
@@ -45,6 +46,10 @@ Copy
 Edit
 npm run build
 The production-ready files will be generated in the build folder.
+
+🌐 Live Demo
+Try the app online: Live Demo
+(Replace with your actual deployed URL, e.g., Netlify, Vercel, or GitHub Pages)
 
 ✨ Future Enhancements
 🔹 Add more advanced accessibility checks (ARIA attributes, semantic HTML)
